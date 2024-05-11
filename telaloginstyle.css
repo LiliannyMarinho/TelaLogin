@@ -46,8 +46,12 @@ input::placeholder {
     color: #ffffff; /* Cor do texto do placeholder */
 }
 
-
 .l1 {
     color: rgb(255, 255, 255);
     margin-right: 73%;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 5px;
 }
